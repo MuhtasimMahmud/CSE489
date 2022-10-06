@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignment02</string>
+
+    <string-array name="options">
+        <item>Choose an option.</item>
+        <item>Custom broadcast receiver.</item>
+        <item>Wifi RTT state change receiver.</item>
+        <item>System battery notification receiver.</item>
+
+    </string-array>
+</resources>
